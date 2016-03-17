@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
         }
-
+        // nous voici on est à charbonner !!
         return super.onOptionsItemSelected(item);
     }
 }
